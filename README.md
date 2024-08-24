@@ -25,7 +25,7 @@
 <li>在全球拥有超过70个优质线路节点，全部采用隧道中转和IPLC内网专线；</li>
 <li>拥有中国香港、中国台湾、日本、美国、新加坡、马来西亚，土耳其和阿根廷等国家和地区的线路节点；</li>
 <li>使用3Gbps的超大网络带宽，绝对能满足大部分用户的应用场景需求；</li>
-<li>中国多ISP BGP专线加速网络，动态调整私域网络；</li>
+<li>中国多ISP BGP专线加速网络，动态调整私域网络；</li>1
 <li>国际Global Accelerator专线加速网络，全节点SLA保障；</li>
 <li>支持 Windows/MacOS/Linux/Android/iOS 等全平台代理客户端；</li>
 <li>线路支持奈飞NETFLIX/TVB/ABEMATV 等国外流媒体解锁；</li>
